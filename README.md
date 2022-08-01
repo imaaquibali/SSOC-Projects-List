@@ -1,5 +1,4 @@
-<p align="center"><a href="https://ssoc.getsocialnow.co/""></p>
-<img src="./assest/ssoc.png">
+<p align="center"><a href="https://ssoc.getsocialnow.co/""><img src="./assest/ssoc.png"></p>
 <h1 align="center">Social Summer of Code Projects  List </h1>
 
 This repo contains the Project which are selected in SSOC 
