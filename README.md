@@ -1,7 +1,7 @@
-<p align="center"><a href="https://ssoc.getsocialnow.co/""><img src="./assest/ssoc.png"></p>
+<p align="center"><a href="https://ssoc.getsocialnow.co/""><img src="./assest/ssoc.png"></a></p>
 <h1 align="center">Social Summer of Code Projects  List </h1>
 
-This repo contains the Project which are selected in SSOC 
+<p align="center"> SSOC is a 3 Month Open Source Program Organized By Social. We aim to promote open source with new age technologies & want everyone to get the right path & gudience through SSOC </p> 
 
 | **Sr.No** | **Project Name** | **Project Admin** | **Tech Stack** |
 |---|---|---|---|
