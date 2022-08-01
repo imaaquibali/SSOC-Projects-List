@@ -27,5 +27,5 @@ This repo contains the Project which are selected in SSOC
 | 18 | [Portfolio Shop](https://github.com/Portfolio-Shop/portfolioshop)| [ Sudeep Mondal ](https://www.linkedin.com/in/sudipmondal2002/) | NodeJS, Azure Functions, MongoDB, React, Material UI |
 | 19 | [Joy of giving by nature](https://github.com/Bhawna1203/Muskan--The-joy-of-giving-by-nature)| [ Bhawna chauhan ](https://www.linkedin.com/in/bhawna-chauhan-00a32a200/) | Kotlin.Java,Android Studio,Firebase Auth ,Firebase Storage, XML |
 | 20 | [IoT Spot](https://github.com/prathimacode-hub/IoT-Spot)| [ Prathima Kadari ](https://www.linkedin.com/in/prathima-kadari/) | C, C++, Python, HTML, CSS, JavaScript |
-| 21 | [AWESOME CHROME EXTENSIONS](https://github.com/ridsuteri/Awesome-Chrome-Extensions)| [ Riddhi Suteri ](https://bio.link/ridsuteri/) | HTML, CSS, JS |
-| 21 | [developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)| [ OpenSourceHub ](https://github.com/opensourcecommunity-hub) | ReactJS, JSON |
+| 21 | [Awesome Chrome Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)| [ Riddhi Suteri ](https://bio.link/ridsuteri/) | HTML, CSS, JS |
+| 21 | [Developer Portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)| [ OpenSourceHub ](https://github.com/opensourcecommunity-hub) | ReactJS, JSON |
