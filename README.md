@@ -3,6 +3,8 @@
 
 <p align="center"><i> SSOC is a 3 Month Open Source Program Organized By Social. We aim to <br>promote open source with new age technologies & want everyone to<br> get the right path & gudience through SSOC </i></p> 
 
+
+
 | **Sr.No** | **Project Name** | **Project Admin** | **Tech Stack** |
 |---|---|---|---|
 | 1 | [WeBeginner Project](https://github.com/Sulagna-Dutta-Roy/Webeginner-projects) | [Sulagna Dutta Roy](https://twitter.com/SulagnaDuttaRo1) | HTML, CSS, JavaScript |
@@ -26,3 +28,4 @@
 | 19 | [IoT Spot](https://github.com/prathimacode-hub/IoT-Spot)| [ Prathima Kadari ](https://www.linkedin.com/in/prathima-kadari/) | C, C++, Python, HTML, CSS, JavaScript |
 | 20 | [Awesome Chrome Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)| [ Riddhi Suteri ](https://bio.link/ridsuteri/) | HTML, CSS, JS |
 | 21 | [Developer Portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)| [ OpenSourceHub ](https://github.com/opensourcecommunity-hub) | ReactJS, JSON |
+| 22 | [Web 3.0 Hub](https://github.com/theblockchainchief/web3-hub)| [ OpenSourceHub ](https://github.com/opensourcecommunity-hub) | Solidity,  Nodejs, Javascript, Typescript, Go , Bash, Python, Java, Rust, React, Html, css, Blockchain |
